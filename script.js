@@ -125,6 +125,7 @@ showSlides("mySlides", 0);
 showSlides("mySlides2", 3);
 showSlides("mySlides3", 6);
 showSlides("mySlides4", 9);
+showSlides("mySlides5", 12);
 
 
 
