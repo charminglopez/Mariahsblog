@@ -3,6 +3,45 @@
   "short_name": "Mariah", 
   "start_url":"index.html",
   "backround_color": "#3E4EB8",
-  "display" : "standalone"
+  "display" : "standalone", 
+  "icons": [
+    {
+    "src": "https://imageshack.com/a/img924/1826/YJ6pgS.png", 
+    "sizes": "512x512",
+    "type" : "image/png"
+  }, {
+    "src": "https://imageshack.com/a/img924/1429/HTwl4j.png", 
+    "sizes": "384x384",
+    "type" : "image/png"
+    }, {
+      "src": "https://imageshack.com/a/img923/1753/80UDMN.png", 
+    "sizes": "256x256",
+    "type" : "image/png"
+}, {
+  "src": "https://imageshack.com/a/img922/6684/Z12K0h.png", 
+    "sizes": "192x192",
+    "type" : "image/png"
+}, {
+
+  "src": "https://imageshack.com/a/img924/3762/rPHisQ.png", 
+    "sizes": "144x144",
+    "type" : "image/png"
+}, {
+  "src": "https://imageshack.com/a/img924/2629/9Unxfw.png", 
+    "sizes": "128x128",
+    "type" : "image/png"
+}, {
+  "src": "https://imageshack.com/a/img922/9744/idhhNP.png", 
+    "sizes": "96x96",
+    "type" : "image/png"
+}
+
+  ]
+
+}
+
+
   
-  }
+  
+  
+  
